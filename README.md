@@ -163,17 +163,52 @@ Monthly Sales Analysis
 
 ## Project Screenshots
 
-The following screenshots are included in the repository:
+### 1. Raw Dataset Preview
+Shows the original retail transaction data loaded into Spark before any processing.
 
-- raw_data.png
-- DataQuality.png
-- duplicate_Records.png
-- clean_data.png
-- top_Customers.png
-- revenue_Country.png
-- monthly_sales.png
+![Raw Data](screenshots/raw_data.png)
 
 ---
+
+### 2. Data Quality Assessment
+Identification of data quality issues including missing Customer IDs, invalid prices, and negative quantities.
+
+![Data Quality](screenshots/DataQuality.png)
+
+---
+
+### 3. Duplicate Record Analysis
+Verification of duplicate transactions before data cleaning.
+
+![Duplicate Records](screenshots/duplicate_Records.png)
+
+---
+
+### 4. Cleaned Dataset
+Dataset after removing missing Customer IDs, invalid prices, negative quantities, and duplicate records.
+
+![Clean Data](screenshots/clean_data.png)
+
+---
+
+### 5. Top Customers Analysis
+Top customers ranked by total revenue generated.
+
+![Top Customers](screenshots/top_Customers.png)
+
+---
+
+### 6. Revenue by Country Analysis
+Country-wise revenue distribution generated using Spark aggregations.
+
+![Revenue by Country](screenshots/revenue_Country.png)
+
+---
+
+### 7. Monthly Sales Trend
+Monthly revenue analysis showing sales performance over time.
+
+![Monthly Sales](screenshots/monthly_sales.png)
 
 ## Key Learnings
 
