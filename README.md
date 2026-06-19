@@ -14,7 +14,6 @@ The project uses the Online Retail Dataset and demonstrates core data engineerin
 - Apache Spark (PySpark)
 - Python
 - GitHub
-- CSV Dataset
 
 ---
 
