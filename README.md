@@ -186,7 +186,7 @@ Verification of duplicate transactions before data cleaning.
 ### 4. Cleaned Dataset
 Dataset after removing missing Customer IDs, invalid prices, negative quantities, and duplicate records.
 
-![Clean Data](screenshots/clean_data.png)
+![Clean Data](screenshots/clean_Data.png)
 
 ---
 
